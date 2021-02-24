@@ -8,8 +8,10 @@ https://github.com/Verasl/BoatAttack
 https://github.com/Unity-Technologies/FontainebleauDemo
 
 ▪️Measured Material library has some fabric, glass etc utility materials and shaders
-URP: https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP
-HDRP: https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP
+
+URP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP
+
+HDRP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP
 
 ▪️Unity AR Foundation Samples -There are really good samples if you new in AR -
 https://github.com/Unity-Technologies/arfoundation-demos
