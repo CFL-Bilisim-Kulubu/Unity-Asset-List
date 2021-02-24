@@ -1,7 +1,7 @@
 # Cool-Unity-URP-HDRP-Assets
 There are some cool assets you should try ;)
 
-▪️Unity URP Boat Attack Demo -via new update you can use cloud and water shaders in HDRP too-
+▪️Unity URP Boat Attack Demo -via new update in Shader Graph you can use cloud and water shaders in HDRP too-
 https://github.com/Verasl/BoatAttack
 
 ▪️Fontineblau Demo - has some cool 3d scanned assets - HDRP
