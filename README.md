@@ -1,25 +1,21 @@
-# Cool-Unity-URP-HDRP-Assets
-There are some cool assets you should try ;)
+# Unity-Asset-List
+Bazı güzel assetlerin listesi:
 
-▪️Unity URP Boat Attack Demo -via new update in Shader Graph you can use cloud and water shaders in HDRP too-
+▪️Unity URP Boat Attack Demo URP de güzel assetler + URP nin esnekliğinin test edilebileceği proje - URP
 https://github.com/Verasl/BoatAttack
 
-▪️Fontineblau Demo - has some cool 3d scanned assets - HDRP
+▪️Fontineblau Demo - Ue4'deki Megascans'lere tam alternatif sunamasa da güzel scanlanmiş assetleri var - HDRP
 https://github.com/Unity-Technologies/FontainebleauDemo
 
-▪️Measured Material library has some fabric, glass etc utility materials and shaders
+▪️Measured Material library bir sürü materyal içieren bir kütüphane - HDRP & URP
 
 URP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP
 
 HDRP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP
 
-▪️Unity AR Foundation Samples -There are really good samples if you new in AR -
+▪️Unity AR Foundation Samples Arttırılmış gerçekliğe yeni başlayan arkadaşlar için ideal bir proje
 https://github.com/Unity-Technologies/arfoundation-demos
 
-▪️MLAPI new online system made by Unity Technologies
-https://github.com/Unity-Technologies/com.unity.multiplayer.mlapi
 
-▪️A Cool and advanced in game debugger graphy
+▪️Oyun içinde kullanabilceğiniz güzel ve detaylı bir profiler
 https://github.com/Tayx94/graphy
-
-Thats all for now !
