@@ -9,9 +9,9 @@ https://github.com/Unity-Technologies/FontainebleauDemo
 
 ▪️Measured Material library bir sürü materyal içieren bir kütüphane - HDRP & URP
 
-URP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP
+URP hali: https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP
 
-HDRP version: https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP
+HDRP hali: https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP
 
 ▪️Unity AR Foundation Samples Arttırılmış gerçekliğe yeni başlayan arkadaşlar için ideal bir proje
 https://github.com/Unity-Technologies/arfoundation-demos
