@@ -1,6 +1,6 @@
 # Unity-Asset-Listesi
 ##### Bazı güzel assetlerin listesi
-==== LİSTE GÜNCELDİR DAHA UZATILACAK VE DÜZENLENECEK ====
+##### LİSTE GÜNCELDİR DAHA UZATILACAK VE DÜZENLENECEKTİR
 
 
 #### GRAFIK GENEL
